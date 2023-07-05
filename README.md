@@ -1,1 +1,3 @@
-0-current_working_directory
+#!/bin/bash
+this repo is for learning shell basics
+
